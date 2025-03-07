@@ -5,13 +5,19 @@
 This project analyzes a Loan Portfolio dataset with 20,000 records, generated using ChatGPT. The goal is to provide a detailed analysis of loan distribution, default rates, repayment trends, and forecasting using Power BI.
 
 🔹 Project Type: Self-Initiated, Unguided
+
 🔹 Dataset: 20K rows (synthetic data)
 
 ## Tools Used:
+
 ✅ Power BI
+
 ✅ Power Query
+
 ✅ Data Cleaning
+
 ✅ Data Modeling
+
 ✅ DAX Functions
 
 ## 🔍 Key Features
@@ -44,5 +50,7 @@ Total Loan Amount Prediction for Next 2 Years
 ## 💡 Insights & Learnings
 
 ✔️ End-to-end project development in Power BI
+
 ✔️ Hands-on experience in ETL, Data Modeling, and DAX
+
 ✔️ Understanding of financial metrics & forecasting techniques
