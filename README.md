@@ -32,9 +32,13 @@ Total Loan Amount Prediction for Next 2 Years
 ## 🛠️ Project Steps
 
 1️⃣ Data Generation - Created a realistic dataset with 20K rows
+
 2️⃣ Data Cleaning & Transformation - Used Power Query for ETL
+
 3️⃣ Data Modeling - Established relationships between tables
+
 4️⃣ DAX Measures - Implemented custom calculations
+
 5️⃣ Visualization - Built interactive dashboards
 
 ## 💡 Insights & Learnings
